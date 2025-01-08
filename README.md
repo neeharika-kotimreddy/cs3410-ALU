@@ -1,4 +1,4 @@
-# ALU32 Design and Test
+# RISC-V ALU32 
 
 ## Overview
 
@@ -45,4 +45,4 @@ To run or modify this project, ensure you have:
    python3 ALU_tests.py
 
 ## Authors 
-Neeharika Kotimreddy
+* Neeharika Kotimreddy
