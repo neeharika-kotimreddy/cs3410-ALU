@@ -15,6 +15,8 @@ The ALU32 comprises five primary computational subcircuits:
 
 Additional helper circuits, such as `overflow`, `opselect`, and `reverse`, support the ALU's functionality. The project is tested using custom test cases for each subcircuit to validate correctness under various conditions, including edge cases.
 
+--- 
+
 ## Getting Started
 
 ### Dependencies
@@ -43,6 +45,8 @@ To run or modify this project, ensure you have:
 2. Run the following command to execute all test cases:
    ```bash
    python3 ALU_tests.py
+
+--- 
 
 ## Authors 
 * Neeharika Kotimreddy
